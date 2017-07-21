@@ -1,0 +1,11 @@
+2016-09-02 19:50:45,728  WARN QueueWithBuffer:362 Link 1 too small: enlarge storage capacity from: 1333.3333333333333 Vehicles to: 3599.712023038157 Vehicles.  This is not fatal, but modifies the traffic flow dynamics.
+2016-09-02 19:50:45,730  WARN QueueWithBuffer:362 Link 20 too small: enlarge storage capacity from: 1333.3333333333333 Vehicles to: 3599.712023038157 Vehicles.  This is not fatal, but modifies the traffic flow dynamics.
+2016-09-02 19:50:45,731  WARN QueueWithBuffer:362 Link 21 too small: enlarge storage capacity from: 1333.3333333333333 Vehicles to: 3599.712023038157 Vehicles.  This is not fatal, but modifies the traffic flow dynamics.
+2016-09-02 19:50:45,731  WARN QueueWithBuffer:362 Link 22 too small: enlarge storage capacity from: 4666.666666666667 Vehicles to: 12598.99208063355 Vehicles.  This is not fatal, but modifies the traffic flow dynamics.
+2016-09-02 19:50:45,732  WARN QueueWithBuffer:362 Link 23 too small: enlarge storage capacity from: 1333.3333333333333 Vehicles to: 3599.712023038157 Vehicles.  This is not fatal, but modifies the traffic flow dynamics.
+2016-09-02 19:50:48,892  WARN QueueWithBuffer:362 Link 1 too small: enlarge storage capacity from: 1333.3333333333333 Vehicles to: 3599.712023038157 Vehicles.  This is not fatal, but modifies the traffic flow dynamics.
+2016-09-02 19:50:48,893  WARN QueueWithBuffer:362 Link 20 too small: enlarge storage capacity from: 1333.3333333333333 Vehicles to: 3599.712023038157 Vehicles.  This is not fatal, but modifies the traffic flow dynamics.
+2016-09-02 19:50:48,893  WARN QueueWithBuffer:362 Link 21 too small: enlarge storage capacity from: 1333.3333333333333 Vehicles to: 3599.712023038157 Vehicles.  This is not fatal, but modifies the traffic flow dynamics.
+2016-09-02 19:50:48,893  WARN QueueWithBuffer:362 Link 22 too small: enlarge storage capacity from: 4666.666666666667 Vehicles to: 12598.99208063355 Vehicles.  This is not fatal, but modifies the traffic flow dynamics.
+2016-09-02 19:50:48,894  WARN QueueWithBuffer:362 Link 23 too small: enlarge storage capacity from: 1333.3333333333333 Vehicles to: 3599.712023038157 Vehicles.  This is not fatal, but modifies the traffic flow dynamics.
+2016-09-02 19:50:50,815 ERROR DumpDataAtEndImpl:141 writing output events did not work; probably parameters were such that no events were generated in the final iteration

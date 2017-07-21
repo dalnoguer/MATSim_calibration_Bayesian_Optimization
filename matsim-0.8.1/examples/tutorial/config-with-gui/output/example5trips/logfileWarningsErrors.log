@@ -1,0 +1,15 @@
+2016-09-02 19:50:36,000  WARN QueueWithBuffer:362 Link 1 too small: enlarge storage capacity from: 1333.3333333333333 Vehicles to: 3599.712023038157 Vehicles.  This is not fatal, but modifies the traffic flow dynamics.
+2016-09-02 19:50:36,002  WARN QueueWithBuffer:362 Link 20 too small: enlarge storage capacity from: 1333.3333333333333 Vehicles to: 3599.712023038157 Vehicles.  This is not fatal, but modifies the traffic flow dynamics.
+2016-09-02 19:50:36,002  WARN QueueWithBuffer:362 Link 21 too small: enlarge storage capacity from: 1333.3333333333333 Vehicles to: 3599.712023038157 Vehicles.  This is not fatal, but modifies the traffic flow dynamics.
+2016-09-02 19:50:36,005  WARN QueueWithBuffer:362 Link 22 too small: enlarge storage capacity from: 4666.666666666667 Vehicles to: 12598.99208063355 Vehicles.  This is not fatal, but modifies the traffic flow dynamics.
+2016-09-02 19:50:36,006  WARN QueueWithBuffer:362 Link 23 too small: enlarge storage capacity from: 1333.3333333333333 Vehicles to: 3599.712023038157 Vehicles.  This is not fatal, but modifies the traffic flow dynamics.
+2016-09-02 19:50:36,130 ERROR BasicPlanAgentImpl:162 last activity of person driver agent id 3 has end time < infty; setting it to infty
+2016-09-02 19:50:36,130 ERROR BasicPlanAgentImpl:163  This message given only once.
+2016-09-02 19:50:38,008  WARN ExpBetaPlanChanger:86 Would make sense to revise this once more.  See comments in code.  kai, nov08
+2016-09-02 19:50:38,033  WARN QueueWithBuffer:362 Link 1 too small: enlarge storage capacity from: 1333.3333333333333 Vehicles to: 3599.712023038157 Vehicles.  This is not fatal, but modifies the traffic flow dynamics.
+2016-09-02 19:50:38,034  WARN QueueWithBuffer:362 Link 20 too small: enlarge storage capacity from: 1333.3333333333333 Vehicles to: 3599.712023038157 Vehicles.  This is not fatal, but modifies the traffic flow dynamics.
+2016-09-02 19:50:38,034  WARN QueueWithBuffer:362 Link 21 too small: enlarge storage capacity from: 1333.3333333333333 Vehicles to: 3599.712023038157 Vehicles.  This is not fatal, but modifies the traffic flow dynamics.
+2016-09-02 19:50:38,034  WARN QueueWithBuffer:362 Link 22 too small: enlarge storage capacity from: 4666.666666666667 Vehicles to: 12598.99208063355 Vehicles.  This is not fatal, but modifies the traffic flow dynamics.
+2016-09-02 19:50:38,035  WARN QueueWithBuffer:362 Link 23 too small: enlarge storage capacity from: 1333.3333333333333 Vehicles to: 3599.712023038157 Vehicles.  This is not fatal, but modifies the traffic flow dynamics.
+2016-09-02 19:50:38,961  WARN QueueWithBuffer:362 Link 1 too small: enlarge storage capacity from: 1333.3333333333333 Vehicles to: 3599.712023038157 Vehicles.  This is not fatal, but modifies the traffic flow dynamics.
+2016-09-02 19:50:38,961  WARN QueueWithBuffer:365 Additional warnings of this type are suppressed.
